@@ -1,6 +1,11 @@
 # POATAN
-![Alex Pereria](https://github.com/AbhayGRT/POATAN/blob/main/alex-pereira.gif)
-![Poatan Image](https://github.com/AbhayGRT/POATAN/blob/main/poatan.png)
+
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/AbhayGRT/POATAN/blob/main/Unnecessary/ufc-mma.gif" width="200" height="200" />
+  <img src="https://github.com/AbhayGRT/POATAN/raw/main/Unnecessary/poatan.png" width="600" height="200" style="margin-right: 10px;" />
+  <img src="https://github.com/AbhayGRT/POATAN/raw/main/Unnecessary/alex-pereira.gif" width="200" height="200" />
+</div>
+
 
 ## Prerequisites
 Ensure you have Python installed on your system. You also need access to an `.env` file with the necessary credentials.
