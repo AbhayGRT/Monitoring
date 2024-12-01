@@ -1,4 +1,4 @@
-# POATAN
+# PERERIA
 
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/AbhayGRT/POATAN/blob/main/Unnecessary/ufc-mma.gif" width="200" height="200" />
