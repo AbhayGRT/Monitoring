@@ -1,7 +1,6 @@
 # POATAN
-
+![Alex Pereria](https://github.com/AbhayGRT/POATAN/blob/main/alex-pereira.gif)
 ![Poatan Image](https://github.com/AbhayGRT/POATAN/blob/main/poatan.png)
-![Alex Pereria](https://media.tenor.com/images/64a0d8103fd8286ed7f78db299aafc16/tenor.gif)
 
 ## Prerequisites
 Ensure you have Python installed on your system. You also need access to an `.env` file with the necessary credentials.
