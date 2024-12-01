@@ -1,0 +1,8 @@
+selenium
+webdriver-manager
+gspread
+oauth2client
+venv
+boto3
+openpyxl
+sudo apt-get install -y libx11-dev libxcomposite-dev libxrandr-dev libgdk-pixbuf2.0-dev libgtk-3-0

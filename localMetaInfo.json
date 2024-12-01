@@ -1,0 +1,11 @@
+{
+    "host_name": [
+        "www.wisden.com"    
+    ],
+    "panel" : [
+        1,2,4,5
+    ],
+    "output_directory_name" : "si-grafana-labs",
+    "no_of_rows_to_scrape" : 10,
+    "duration": "6h"
+}
